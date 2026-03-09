@@ -16,26 +16,6 @@ This system also visually displays each task’s **status** and supports full CR
 - ⚡ Fast and user-friendly interface  
 
 ---
-
-## 📸 Screenshots  
-### **Main Dashboard**
-Below is a preview of the application's main interface:
-
-![Dashboard](assets/dashboard.png)
-
-*(Replace `assets/dashboard.png` with your actual screenshot file.)*
-
----
-
-## 🎞️ Animated Demo (GIF)  
-Show how your app works in motion:
-
-![Demo GIF](assets/demo.gif)
-
-*(Drop your GIF in the `assets/` folder and update the filename.)*
-
-If you need help creating the GIF for your app, tell me—I can guide you step‑by‑step.
-
----
+<img width="1167" height="737" alt="image" src="https://github.com/user-attachments/assets/f4817302-ff42-47fc-a9b7-fee8a0fd417d" />
 
 ## 🧱 Project Structure  
