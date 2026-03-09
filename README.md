@@ -1,27 +1,41 @@
-# 📝 Task Management System
-نظام بسيط وقوي لإدارة المهام، يساعد المستخدمين على إنشاء المهام، تتبع تقدّمها، وتحديث حالتها بسهولة ⚡  
-المشروع معمول بهدف التعلم والتطبيق العملي لمفاهيم البرمجة وإدارة البيانات.
+# 📝 Task Management with Reminders
+A desktop application designed to help users **create, update, track, and manage tasks with due dates and priorities**.  
+This system also visually displays each task’s **status** and supports full CRUD operations (Add – Update – Delete – Mark as Done).
 
 ---
 
-## 🚀 مميزات النظام
-- ➕ إضافة مهام جديدة  
-- 📂 تنظيم المهام حسب الحالة (Pending / In Progress / Done)  
-- 🔄 تحديث حالة المهمة  
-- 🗑️ حذف مهمة  
-- 🔍 البحث داخل المهام  
-- 👤 إمكانية إضافة مستخدمين (اختياري)  
+## 🌟 Features  
+- ➕ Add new tasks  
+- 📝 Edit existing tasks  
+- ❌ Delete tasks  
+- ✔️ Mark tasks as Done  
+- 🕒 Select due date & time  
+- 🔔 Reminder-style UI layout  
+- 📋 Table view for all tasks  
+- 🎯 Status categories (Pending, In‑Progress, Done)  
+- ⚡ Fast and user-friendly interface  
 
 ---
 
-## 🛠️ التقنيات المستخدمة
-- Java (أو أي لغة تشتغلين بها)  
-- OOP Concepts  
-- Git & GitHub  
-- ملفات نصية / قاعدة بيانات (اختياري)  
+## 📸 Screenshots  
+### **Main Dashboard**
+Below is a preview of the application's main interface:
 
-*قوليلي اللغة اللي بتشتغلي بيها و أخصص الجزء دا 👇✨*
+![Dashboard](assets/dashboard.png)
+
+*(Replace `assets/dashboard.png` with your actual screenshot file.)*
 
 ---
 
-## 📦 هيكل المشروع (Structure)
+## 🎞️ Animated Demo (GIF)  
+Show how your app works in motion:
+
+![Demo GIF](assets/demo.gif)
+
+*(Drop your GIF in the `assets/` folder and update the filename.)*
+
+If you need help creating the GIF for your app, tell me—I can guide you step‑by‑step.
+
+---
+
+## 🧱 Project Structure  
